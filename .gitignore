@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# Packaging artefacts
+*.egg-info/
+*.eggs/
+build/
+dist/
+pip-wheel-metadata/
+
+# Editor settings
+.idea/
+.vscode/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
